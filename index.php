@@ -6,4 +6,9 @@ for($i=1;$i<=5;$i++){
 	}
 	echo "<br>";
 }
+$sachin = "sachin";
+$kumar = "kumar";
+$fullName = $sachin . " " . $kumar;
+echo $fullName;
+
 ?>
